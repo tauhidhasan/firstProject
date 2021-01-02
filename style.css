@@ -2,3 +2,8 @@
     margin: 0;
     padding: 0;
 }
+body{
+    color: rgba(243, 19, 19, 0.705);
+    background-color: rgb(222, 214, 224);
+    font-family: rubik;
+}
