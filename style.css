@@ -9,6 +9,11 @@ body{
     text-align: justify;
     text-transform: uppercase;
 }
+.container{
+    width: 100%;
+    margin: auto;
+
+}
 .box-1{
     background-color: cornsilk;
     border: 5px rebeccapurple solid;
