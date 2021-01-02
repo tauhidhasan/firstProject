@@ -6,4 +6,11 @@ body{
     color: rgba(243, 19, 19, 0.705);
     background-color: rgb(222, 214, 224);
     font-family: rubik;
+    text-align: justify;
+    text-transform: uppercase;
+}
+.box-1{
+    background-color: cornsilk;
+    border: 5px rebeccapurple solid;
+    padding: 5px 10px 20px 40px;
 }
