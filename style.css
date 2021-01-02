@@ -23,4 +23,5 @@ body{
 .box-1 h1{
     padding-bottom: 20px;
     text-align: center;
+    word-spacing: 1em;
 }
